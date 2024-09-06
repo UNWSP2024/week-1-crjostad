@@ -1,2 +1,3 @@
-print("Hello_world")
+def hello_world
+print("hello_world")
 
